@@ -28,7 +28,7 @@ User Preference Management
 Shows how a user can update personal preferences, with changes being persisted on the server and reflected in the application state.
 
 Order Management with Live Reviews
-<video controls src="media/Order_management_real_time_reviews.mp4" title="Order Management with Live Reviews"></video>
+<video controls src="Order_management_real_time_reviews.mp4" title="Order Management with Live Reviews"></video>
 Illustrates the order management process from the store perspective, including order handling and real-time customer review updates.
 
 Real-Time Order Synchronization Between Clients
