@@ -20,24 +20,37 @@ The primary objective of this project was to apply theoretical concepts studied 
 
 ### Project Samples
 User Account Creation
-[User Account Creation](media/Account_creation.mp4)
-Demonstrates the user registration flow, including form validation, data submission to the back-end, and successful account creation.
+
+https://github.com/user-attachments/assets/6e2f2cfa-a329-4722-a0ce-e7acdb4b4d98
+
+_Demonstrates the user registration flow, including form validation, data submission to the back-end, and successful account creation._
 
 User Preference Management
-[User Preference Management](media/Preferences_update.mp4)
-Shows how a user can update personal preferences, with changes being persisted on the server and reflected in the application state.
+
+https://github.com/user-attachments/assets/4f3c1c48-9ff1-423c-a617-362e16fe4bd0
+
+_Shows how a user can update personal preferences, with changes being persisted on the server and reflected in the application state._
+
 
 Order Management with Live Reviews
-[Order Management with Live Reviews](media/Order_management_real_time_reviews.mp4)
-Illustrates the order management process from the store perspective, including order handling and real-time customer review updates.
+
+https://github.com/user-attachments/assets/dee4ac73-5899-4429-954f-862336f5ddd6
+
+_Illustrates the order management process from the store perspective, including order handling and real-time customer review updates._
+
 
 Real-Time Order Synchronization Between Clients
-[Real-Time Order Synchronization Between Clients](media/Real_time_orders_synchronized.mp4)
-Demonstrates how order state changes are synchronized in real time between the user and store front-end applications through the back-end.
+
+https://github.com/user-attachments/assets/5f8e5ed0-4b25-4a4e-a412-ed7700bb6b96
+
+_Demonstrates how order state changes are synchronized in real time between the user and store front-end applications through the back-end._
+
 
 Dynamic Price Updates in Real Time
-[Dynamic Price Updates in Real Time](media/Real_time_price_changes.mp4)
-Shows real-time price modifications performed by the store and their immediate propagation to connected user clients.
+
+https://github.com/user-attachments/assets/47d1d809-eba4-4556-a040-226b8897327c
+
+_Shows real-time price modifications performed by the store and their immediate propagation to connected user clients._
 
 ### Project Overview
 The system is structured around a client-side architecture:
