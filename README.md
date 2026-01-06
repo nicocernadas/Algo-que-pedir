@@ -20,23 +20,23 @@ The primary objective of this project was to apply theoretical concepts studied 
 
 ### Project Samples
 User Account Creation
-<video controls src="media/Account_creation.mp4" title="User Account Creation"></video>
+[User Account Creation](media/Account_creation.mp4)
 Demonstrates the user registration flow, including form validation, data submission to the back-end, and successful account creation.
 
 User Preference Management
-<video controls src="media/Preferences_update.mp4" title="User Preference Management"></video>
+[User Preference Management](media/Preferences_update.mp4)
 Shows how a user can update personal preferences, with changes being persisted on the server and reflected in the application state.
 
 Order Management with Live Reviews
-<video controls src="Order_management_real_time_reviews.mp4" title="Order Management with Live Reviews"></video>
+[Order Management with Live Reviews](media/Order_management_real_time_reviews.mp4)
 Illustrates the order management process from the store perspective, including order handling and real-time customer review updates.
 
 Real-Time Order Synchronization Between Clients
-<video controls src="media/Real_time_orders_synchronized.mp4" title="Real-Time Order Synchronization Between Clients"></video>
+[Real-Time Order Synchronization Between Clients](media/Real_time_orders_synchronized.mp4)
 Demonstrates how order state changes are synchronized in real time between the user and store front-end applications through the back-end.
 
 Dynamic Price Updates in Real Time
-<video controls src="media/Real_time_price_changes.mp4" title="Dynamic Price Updates in Real Time"></video>
+[Dynamic Price Updates in Real Time](media/Real_time_price_changes.mp4)
 Shows real-time price modifications performed by the store and their immediate propagation to connected user clients.
 
 ### Project Overview
